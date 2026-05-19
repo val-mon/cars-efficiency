@@ -1,0 +1,19 @@
+# virtual environments
+.venv/
+venv/
+env/
+
+# python cache
+__pycache__/
+
+# environment variables
+.env
+.env.*
+*.env
+
+# ide
+.vscode/
+.idea/
+
+# macos
+.DS_Store
