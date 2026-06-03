@@ -17,3 +17,6 @@ __pycache__/
 
 # macos
 .DS_Store
+
+# specific files
+figs/
